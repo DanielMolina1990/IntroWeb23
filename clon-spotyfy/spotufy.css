@@ -1,0 +1,171 @@
+.contender-heder{
+    background-color: black;
+    height: 80px;
+    width: auto;
+    display: flex;
+    justify-content:space-between ;
+}
+
+.img-logo{
+    height: 80px;
+    margin: 0px 80px;
+}
+
+.menu-list{
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    padding-bottom: 3px;
+    padding-left: 5px;
+    padding-right: 35px;
+    display: inline-block;
+}
+
+.section-1{
+    background-color: rgb(29, 117, 222) ;
+    height: 335px;
+    width:  auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.heading-1{
+    padding-top: 40px;
+    padding-left: 105px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: white;   
+}
+
+.heading-2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: white;
+    padding-left: 105px;
+    padding-right: 50px;
+}
+
+.buttons{
+    padding-inline-start: 105px;
+    padding-top: 15px;
+}
+
+.bt1{
+    font-family: Arial, Helvetica, sans-serif;
+    height: 50px;
+    width: 150px;
+    border-radius: 50px;
+    border:  2px solid rgb(25, 20, 20);
+    color: white;
+    background-color:  #191414;
+    cursor: pointer;
+}
+
+.bt2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    height: 50px;
+    width: 150px;
+    border:  2px solid white;
+    border-radius: 50px;
+    background-color: rgb(29, 117, 222);
+    cursor: pointer;
+}
+
+.conditions{
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    padding-top: 25px;
+    padding-left: 105px;
+    padding-right: 100px;
+}
+
+.conditions1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.heading-sec2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 45px;
+    padding-top: 30px;
+    padding-left: 430px;
+}
+
+.float{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 100px;
+    padding-top: 30px;
+}
+
+.float1{
+    box-sizing: 15px, 15px, 15px, 15px;
+}
+
+.note{
+    height: 150px;
+    padding-left: 17px;
+}
+
+.description-top1{
+    font-family: Arial, Helvetica, sans-serif ;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.description-end1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+}
+.float2{
+    box-sizing: 15px, 15px, 15px, 15px;
+}
+.anuncios{
+    height: 150px;
+}
+
+.description-top2{
+    font-family: Arial, Helvetica, sans-serif ;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.description-end2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+}
+.tone{
+    height: 150px;
+}
+
+.description-top3{
+    font-family: Arial, Helvetica, sans-serif ;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.description-end3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.phone{
+    height: 150px;
+}
+
+.description-top4{
+    font-family: Arial, Helvetica, sans-serif ;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.description-end4{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+}
